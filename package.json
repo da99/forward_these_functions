@@ -1,0 +1,19 @@
+{
+  "name": "forward_these_functions",
+  "version": "0.0.1",
+  "description": "A delegator for specific functions.",
+  "main": "lib/forward_these_functions.js",
+  "scripts": {
+    "test": "mocha  --watch --compilers coffee:coffee-script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/da99/forward_these_functions"
+  },
+  "keywords": [
+    "delegate",
+    "delegator"
+  ],
+  "author": "da99",
+  "license": "BSD"
+}
